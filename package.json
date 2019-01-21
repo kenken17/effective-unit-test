@@ -1,0 +1,22 @@
+{
+  "name": "effective-unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenken17/effective-unit-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenken17/effective-unit-test/issues"
+  },
+  "homepage": "https://github.com/kenken17/effective-unit-test#readme",
+  "devDependencies": {
+    "jasmine": "^3.3.1"
+  }
+}
